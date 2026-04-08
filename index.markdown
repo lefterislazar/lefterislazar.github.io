@@ -6,7 +6,7 @@ I am a student at the School of Electrical and Computer Engineering, [National T
 
 **Research interests:** formal methods for software, interactive theorem proving, and their application in practical software.
 
-I am currently writing my thesis under the supervision of [Zoe Paraskevopoulou](https://zoep.github.io/), on formally verifying Smart Contracts, and interning at the [Argot Collective](https://www.argot.dev/).
+I am currently writing my thesis under the supervision of [Zoe Paraskevopoulou](https://zoep.github.io/), on formally verifying Smart Contracts, and interning at the [Argot Collective](https://argot.org).
 
 [Download CV](/assets/cv.pdf)
 
