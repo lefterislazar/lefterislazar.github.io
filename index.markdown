@@ -14,6 +14,12 @@ I am currently writing my thesis under the supervision of [Zoe Paraskevopoulou](
 
 ## Publications
 
+**Workshop paper, FMBC 2026**
+
+*Act: Specification Language and Verification Framework for Ethereum Smart Contracts*
+
+<span style="color: #888; font-size: 0.9em;">Zoe Paraskevopoulou, Lefteris Lazaropoulos, Anja Petković Komel, Sophie Rain, and Alexis Terry</span>
+
 **Under submission**
 
 *Act: From EVM Bytecode to Machine-Checked Reasoning for Smart Contracts*
