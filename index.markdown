@@ -2,11 +2,11 @@
 layout: home
 ---
 
-I am a student at the School of Electrical and Computer Engineering, [National Technical University of Athens](https://www.ntua.gr/en/).
+I am a PhD student at the School of Electrical and Computer Engineering, [National Technical University of Athens](https://www.ntua.gr/en/), advised by Zoe Paraskevopoulou.
 
 **Research interests:** formal methods, interactive theorem proving and software verification.
 
-I am currently writing my thesis under the supervision of [Zoe Paraskevopoulou](https://zoep.github.io/), on formally verifying Smart Contracts, and interning at the [Argot Collective](https://argot.org).
+My work is on the formal verification of Smart Contracts, with a focus on refinement proofs for EVM bytecode. It continues my diploma thesis, *Mechanized Verification of Smart Contracts: Invariants and LLM-Generated Refinement Proofs for EVM Bytecode*. Previously, I was a research intern at the [Argot Collective](https://argot.org).
 
 [Download CV](/assets/cv.pdf)
 
@@ -22,14 +22,17 @@ I am currently writing my thesis under the supervision of [Zoe Paraskevopoulou](
 
 <span style="color: #888; font-size: 0.9em;">FMBC 2026</span>
 
-**Under submission**
+**Preprints**
 
-*Act: From EVM Bytecode to Machine-Checked Reasoning for Smart Contracts*
+*[Foundational Refinement Proofs for EVM Bytecode, at the Price of Tokens](https://arxiv.org/abs/2607.26306)*
 
-<span style="color: #888; font-size: 0.9em;">Zoe Paraskevopoulou, Lefteris Lazaropoulos, Anja Petković Komel, Sophie Rain, and Alexis Terry</span>
+<span style="color: #888; font-size: 0.9em;">Eleftherios Lazaropoulos and Zoe Paraskevopoulou</span>
+
+<span style="color: #888; font-size: 0.9em;">arXiv:2607.26306, 2026</span>
 
 ---
 
 ## Education
 
-- **M.Sc. / Diploma**, National Technical University of Athens, expected 2026
+- **Ph.D.**, National Technical University of Athens, 2026 – present
+- **M.Sc. / Diploma**, National Technical University of Athens, 2026

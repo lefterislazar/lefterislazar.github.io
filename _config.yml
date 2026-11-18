@@ -21,7 +21,7 @@
 title: Lefteris Lazaropoulos
 email: lefterislazar@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Master's Student, National Technical University of Athens
+  PhD Student, National Technical University of Athens
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lefterislazar.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
